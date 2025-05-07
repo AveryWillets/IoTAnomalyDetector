@@ -1,4 +1,4 @@
-# IoTAnomalyDetector
+# IoT Anomaly Detector
 
 This project simulates a Data Center IoT service. The goal is to become familiar with analyzing sensor data for anomalies.
 
